@@ -3,6 +3,7 @@
 - Backend Developer with Node.js.
 - Open to freelancer iOS app and backend projects.
 - Working at [Delivery Much Brasil](https://www.deliverymuch.com.br)
+- Writer in [dev.to](https://dev.to/jonatanlima)
 
 ## 📚 Interests
 
@@ -25,8 +26,9 @@
 
 ## 📫 Contact Information
 
-- Email: `jotanlima@gmail.com`
-- Twitter: `@JonatanDSLima`
+- [Email](mailto:jotanlima@gmail.com)
+- [Twitter](https://twitter.com/JonatanDSLima)
+- [Linkedin](https://www.linkedin.com/in/jonatan-lima-977416102)
 
 ## 🌱 I'm currently learning
 
