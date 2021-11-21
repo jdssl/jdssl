@@ -1,6 +1,7 @@
 ## ☝🏽I am a
 
 - Backend Developer with Node.js.
+- Open to freelancer iOS app and backend projects.
 - Working at [Delivery Much Brasil](https://www.deliverymuch.com.br)
 - Writer in [dev.to](https://dev.to/jonatanlima)
 
@@ -16,6 +17,7 @@
 - JavaScript
 - TypeScript
 - Node.js
+- Swift
 - Docker
 - K8s
 - RabbitMQ
