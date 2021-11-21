@@ -1,16 +1,34 @@
-### Hi there 👋
+## ☝🏽I am a
 
-<!--
-**JonatanLima/JonatanLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Backend Developer with Node.js.
+- Open to freelancer iOS app and backend projects.
+- Working at [Delivery Much Brasil](https://www.deliverymuch.com.br)
 
-Here are some ideas to get you started:
+## 📚 Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TDD
+- Clean Architecture
+- Micro-services
+- Cloud infrastructures
+
+## 👾 Technologies
+
+- JavaScript
+- TypeScript
+- Node.js
+- Swift
+- Docker
+- K8s
+- RabbitMQ
+- DevOps
+- Elastic
+
+## 📫 Contact Information
+
+- Email: `jotanlima@gmail.com`
+- Twitter: `@JonatanDSLima`
+
+## 🌱 I'm currently learning
+
+- Lua (for improve my neovim workstation)
+- Rust (for write Node.js modules in Rust)
