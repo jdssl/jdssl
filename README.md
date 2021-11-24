@@ -16,6 +16,7 @@
 - JavaScript
 - TypeScript
 - Node.js
+- Golang
 - Docker
 - K8s
 - RabbitMQ
