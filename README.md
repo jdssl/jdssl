@@ -31,5 +31,4 @@
 
 ## 🌱 I'm currently learning
 
-- Lua (for improve my neovim workstation)
 - Rust (for write Node.js modules in Rust)
