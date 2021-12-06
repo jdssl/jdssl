@@ -31,4 +31,4 @@
 
 ## 🌱 I'm currently learning
 
-- Rust (for write Node.js modules in Rust)
+- Lua and Rust.
