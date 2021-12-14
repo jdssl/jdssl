@@ -13,8 +13,7 @@
 
 ## 👾 Technologies
 
-- JavaScript
-- TypeScript
+- JavaScript/TypeScript
 - Node.js
 - Rust
 - Lua
