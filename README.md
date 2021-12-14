@@ -17,6 +17,8 @@
 - TypeScript
 - Node.js
 - Golang
+- Rust
+- Lua
 - Docker
 - K8s
 - RabbitMQ
