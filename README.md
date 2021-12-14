@@ -16,7 +16,6 @@
 - JavaScript
 - TypeScript
 - Node.js
-- Golang
 - Rust
 - Lua
 - Docker
