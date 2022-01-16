@@ -3,8 +3,9 @@
 I love backend development in special with JavaScript, TypeScript, Nodejs, Docker, K8s, RabbitMQ and Elastic.
 
 - Backend Developer with Node.js.
-- Working at [Delivery Much Brasil](https://www.deliverymuch.com.br)
-- Writer in [dev.to](https://dev.to/jonatanlima)
+- Working at [Delivery Much Brasil](https://www.deliverymuch.com.br).
+- Writer in [dev.to](https://dev.to/jonatanlima).
+- Currently learning Rust.
 
 ## 📫 Contact Information
 
