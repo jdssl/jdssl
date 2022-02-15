@@ -5,7 +5,6 @@ I love backend development in special with JavaScript, TypeScript, Nodejs, Golan
 - Backend Developer with Node.js.
 - Working at [Delivery Much Brasil](https://www.deliverymuch.com.br).
 - Writer in [dev.to](https://dev.to/jonatanlima).
-- Currently focused in my personal open source project.
 
 ## 📫 Contact Information
 
