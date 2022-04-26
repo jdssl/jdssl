@@ -9,7 +9,6 @@ I love backend development in special with JavaScript, TypeScript, Nodejs, Rust,
 ## 📫 Contact Information
 
 - [Email](mailto:jotanlima@gmail.com)
-- [Twitter](https://twitter.com/JonatanDSLima)
 - [Linkedin](https://www.linkedin.com/in/jonatan-lima-977416102)
 
 <div style="display: inline_block"><br>
