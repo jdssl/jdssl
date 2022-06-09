@@ -5,6 +5,7 @@ I love backend development in special with JavaScript, TypeScript, Nodejs, Rust,
 - Backend Developer with Node.js.
 - Working at [Delivery Much Brasil](https://www.deliverymuch.com.br).
 - Writer in [dev.to](https://dev.to/jonatanlima).
+- Interested in [Lua](https://www.lua.org).
 
 ## 📫 Contact Information
 
