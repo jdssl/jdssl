@@ -1,6 +1,6 @@
 ## ☝🏽Hi my name is Jonatan Lima, but my friends call me of Balu
 
-I love backend development in special with JavaScript, TypeScript, Nodejs, Docker, K8s, RabbitMQ and Elastic.
+I love backend development in special with JavaScript, TypeScript, Node.js, Docker, K8s, RabbitMQ and Elastic.
 
 - Backend Developer with Node.js.
 - Working at [Delivery Much Brasil](https://www.deliverymuch.com.br).
