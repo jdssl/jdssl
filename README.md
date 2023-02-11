@@ -4,7 +4,7 @@ Hi, I'm a back-end developer in special with Node.js, Docker, k8s, RabbitMQ, AWS
 
 Technically I enjoy large-scale systems architecture, microservices, bots, following best practices, task automation, and observability.
 
-I like other programming languages like Rust, Golang, Lua, and C.
+I like other programming languages like Rust, Lua, and C.
 
 - Senior Backend Developer.
 - Working at [Delivery Much Brasil](https://www.deliverymuch.com.br).
@@ -15,10 +15,10 @@ I like other programming languages like Rust, Golang, Lua, and C.
 - [Email](mailto:jotanlima@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/jonatan-lima-977416102)
 
-<!-- ## 🔥 My Stats
+## 🔥 My Stats
 
  <div style="overflow:hidden;">
-       <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanLima&theme=slateorange&count_private=true&layout=compact" /> -->
+       <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanLima&theme=slateorange&count_private=true&layout=compact" />
    <!-- <br><br>
    <img align="center" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=JonatanLima&theme=slateorange&layout=compact" />
 </div>
