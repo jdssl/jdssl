@@ -24,7 +24,7 @@ I like other programming languages like Rust, Go, Lua, and C.
 <a href="https://www.cprogramming.com/" target="_blank"><img src="./media/c.svg" alt="c" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="./media/git.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://neovim.io/" target="_blank"> <img src="./media/neovim.png" alt="neovim" width="40" height="40"/> </a> 
- <a href="https://archlinux.org/" target="_blank"> <img src="./media/arch.png" alt="archlinux" width="40" height="40"/> </a> 
+<!-- <a href="https://archlinux.org/" target="_blank"> <img src="./media/arch.png" alt="archlinux" width="40" height="40"/> </a> -->
  <a href="https://www.mongodb.com/" target="_blank"> <img src="./media/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
  <a href="https://www.mysql.com/" target="_blank"> <img src="./media/mysql.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.docker.com" target="_blank"> <img src="./media/docker.svg" alt="docker" width="40" height="40"/> </a> 
