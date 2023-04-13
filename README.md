@@ -2,7 +2,7 @@
 
 Hi, I'm a back-end developer in special with Node.js, Docker, k8s, RabbitMQ, AWS, and other technologies.
 
-Technically I enjoy large-scale systems architecture, microservices, bots, following best practices, task automation, and observability.
+Technically I enjoy large-scale systems architecture, microservices, bots, task automation, and observability.
 
 I like other programming languages like Rust, Go, Lua, and C.
 
