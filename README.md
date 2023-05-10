@@ -32,13 +32,13 @@ I like other programming languages like Rust, Go, Lua, and C.
   <a href="https://aws.amazon.com/" target="_blank"> <img src="./media/aws.svg" alt="aws" width="40" height="40"/> </a>
 </p> -->
 
-<!--
+
 ## 🔥 My Stats
 
  <div style="overflow:hidden;">
-       <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdssl&theme=slateorange&count_private=true&layout=compact" /> -->
+       <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdssl&theme=slateorange&count_private=true&layout=compact" />
    <!-- <br><br>
-   <img align="center" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=JonatanLima&theme=slateorange&layout=compact" />
+   <img align="center" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=jdssl&theme=slateorange&layout=compact" /> -->
 </div>
 <!-- </div>
 
