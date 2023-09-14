@@ -1,10 +1,10 @@
 ## ☝🏽Hi my name is Jonatan Lima, but my friends call me of Balu
 
-Hi, I'm a back-end developer in special with Node.js, Docker, k8s, RabbitMQ, AWS, and other technologies.
+Hi, I'm a backend developer exceptional with Node.js, Docker, k8s, RabbitMQ, AWS, and other technologies.
 
-Technically I enjoy large-scale systems architecture, microservices, bots, task automation, and observability.
+Technically I enjoy large-scale systems architecture, microservices, bots, task automation, and observability. In relation to methodologies, I like TDD, DDD, Clean Architecture, Ports and adapters Architecture, and BDD.
 
-I like other programming languages like Rust, Go, Lua, and C.
+I like other programming languages like Golang, Rust, Lua, and C.
 
 - Senior Backend Developer.
 - Working at [Delivery Much Brasil](https://www.deliverymuch.com.br).
