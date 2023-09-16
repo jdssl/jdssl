@@ -1,6 +1,6 @@
 ## ☝🏽Hi my name is Jonatan Lima, but my friends call me Balu
 
-Hi, I'm a backend developer with Node.js, Docker, k8s, RabbitMQ, AWS, and other technologies.
+Hi, I'm a backend developer with Node.js, Golang, Docker, k8s, RabbitMQ, AWS, and other technologies.
 
 Technically I enjoy large-scale systems architecture, microservices, bots, task automation, and observability. In relation to methodologies, I like TDD, DDD, Clean Architecture, Ports and adapters Architecture, and BDD.
 
