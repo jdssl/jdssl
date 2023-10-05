@@ -4,7 +4,7 @@ I'm a backend developer with Node.js, Golang, Docker, k8s, RabbitMQ, AWS, and ot
 
 Technically I enjoy large-scale systems architecture, microservices, bots, task automation, and observability. In relation to methodologies, I like TDD, DDD, BDD, Ports and adapters Architecture and Clean Architecture.
 
-I like other programming languages like Golang, Rust, Lua, and C.
+I like other programming languages like Rust, Lua, and C.
 
 - Senior Backend Developer.
 - Working at [Delivery Much Brasil](https://www.deliverymuch.com.br).
