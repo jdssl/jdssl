@@ -6,8 +6,7 @@ Technically I enjoy large-scale systems architecture, microservices, bots, task 
 
 I like other programming languages like Rust, Lua, and C.
 
-- Senior Backend Developer.
-- Working at [Delivery Much Brasil](https://www.deliverymuch.com.br).
+- Senior Backend Developer at [Delivery Much Brasil](https://www.deliverymuch.com.br).
 - Writer in [dev.to](https://dev.to/jonatanlima).
 
 <!--
