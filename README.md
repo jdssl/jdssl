@@ -1,4 +1,4 @@
-## ☝🏽Hi my name is Jonatan Lima, but my friends call me Balu
+### ☝ Hi my name is Jonatan Lima, but my friends call me Balu
 
 <!--
 I'm a backend developer with Node.js, Docker, k8s, RabbitMQ, AWS, and other technologies.
