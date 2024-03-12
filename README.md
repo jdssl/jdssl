@@ -32,11 +32,12 @@ I like programming languages like Rust, Golang, Lua, and C.
   <a href="https://kubernetes.io/" target="_blank"> <img src="./media/k8s.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="./media/aws.svg" alt="aws" width="40" height="40"/> </a>
 </p>
+<!--
 
 ## 🔥 My Stats 
 
  <div style="overflow:hidden;">
        <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdssl&theme=slateorange&count_private=true&layout=compact" />
-    <br><be>
+    <br><br>-->
  <!--  <img align="center" height="200" src="http://github-readme-streak-stats.herokuapp.com?user=jdssl&theme=slateorange&layout=compact" />
 </div> -->
