@@ -1,11 +1,11 @@
 ### ☝ Hi my name is Jonatan Lima, but my friends call me Balu.
 
 
-I'm a backend developer with Node.js, Docker, k8s, RabbitMQ, AWS, and other technologies.
+I'm a backend developer with Node.js, Golang, Docker, k8s, RabbitMQ, AWS, and other technologies.
 
 Technically I enjoy large-scale systems architecture, microservices, bots, task automation, and observability. About methodologies, I like TDD, DDD, BDD, Ports and adapters Architecture and Clean Architecture.
 
-I like programming languages like Rust, Golang, Lua, and C.
+I like programming languages like Rust, Lua, and C.
 
 - Senior Backend Developer at [Delivery Much Brasil](https://www.deliverymuch.com.br).
 - Writer in [dev.to](https://dev.to/jonatanlima).
@@ -19,8 +19,8 @@ I like programming languages like Rust, Golang, Lua, and C.
 <h2 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank"> <img src="./media/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> <img src="./media/rust.svg" alt="rust" width="40" height="40"/> </a>
   <a href="https://go.dev/" target="_blank"> <img src="./media/go.svg" alt="golang" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> <img src="./media/rust.svg" alt="rust" width="40" height="40"/> </a>
   <a href="https://www.lua.org/" target="_blank"> <img src="./media/lua.svg" alt="lua" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="./media/c.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.shellscript.sh/" target="_blank"><img src="./media/bash.svg" alt="bash" width="40" height="40"/></a>
