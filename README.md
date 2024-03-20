@@ -19,8 +19,8 @@ I like programming languages like Rust, Golang, Lua, and C.
 <h2 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank"> <img src="./media/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://go.dev/" target="_blank"> <img src="./media/go.svg" alt="golang" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="./media/rust.svg" alt="rust" width="40" height="40"/> </a>
+  <a href="https://go.dev/" target="_blank"> <img src="./media/go.svg" alt="golang" width="40" height="40"/> </a>
   <a href="https://www.lua.org/" target="_blank"> <img src="./media/lua.svg" alt="lua" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="./media/c.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.shellscript.sh/" target="_blank"><img src="./media/bash.svg" alt="bash" width="40" height="40"/></a>
