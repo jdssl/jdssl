@@ -15,7 +15,7 @@ I like programming languages like Rust, Golang, Lua, and C.
 
 - [Email](mailto:jotanlima@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/jonatan-lima-977416102)
-
+<!--
 <h2 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank"> <img src="./media/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -32,6 +32,7 @@ I like programming languages like Rust, Golang, Lua, and C.
   <a href="https://kubernetes.io/" target="_blank"> <img src="./media/k8s.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="./media/aws.svg" alt="aws" width="40" height="40"/> </a>
 </p>
+-->
 <!--
 
 ## 🔥 My Stats 
