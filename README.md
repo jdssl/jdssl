@@ -5,7 +5,7 @@ I'm a backend developer with Node.js, Docker, k8s, RabbitMQ, AWS, Terraform and 
 
 Technically I enjoy large-scale systems architecture, microservices, bots, task automation, and observability. About methodologies, I like TDD, DDD, BDD, Ports and adapters Architecture, and Clean Architecture.
 
-I like programming languages like Rust, Golang, Lua, and C.
+I like programming languages like Rust, Kotlin for Android, Golang, Lua, and C.
 
 - Senior Backend Developer at [Delivery Much Brasil](https://www.deliverymuch.com.br).
 - Writer in [dev.to](https://dev.to/jonatanlima).
@@ -19,6 +19,8 @@ I like programming languages like Rust, Golang, Lua, and C.
 <h2 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank"> <img src="./media/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="./media/kotlin.png" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://www.android.com/" target="_blank"> <img src="./media/android.png" alt="android" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="./media/rust.svg" alt="rust" width="40" height="40"/> </a>
   <a href="https://go.dev/" target="_blank"> <img src="./media/go.svg" alt="golang" width="40" height="40"/> </a>
   <a href="https://www.lua.org/" target="_blank"> <img src="./media/lua.svg" alt="lua" width="40" height="40"/> </a>
