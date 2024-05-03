@@ -8,6 +8,7 @@ Technically I enjoy large-scale systems architecture, microservices, bots, task 
 I like programming languages like Rust, Kotlin for Android, Golang, Lua, and C.
 
 - Senior Backend Developer at [Delivery Much Brasil](https://www.deliverymuch.com.br).
+- Android development enthusiast.
 - Writer in [dev.to](https://dev.to/jonatanlima).
 - My talk about [Node.js Design Patterns](https://youtu.be/AWISf1mNcso?feature=shared).
 
