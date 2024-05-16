@@ -5,7 +5,7 @@ I'm a backend developer with Node.js, Docker, k8s, RabbitMQ, AWS, Terraform, Mon
 
 Android development enthusiast.
 
-I like programming languages like Rust, Kotlin for Android, Golang, Lua, and C.
+I like programming languages like Rust, Kotlin, Golang, Lua, and C.
 
 Technically I enjoy large-scale systems architecture, microservices, bots, task automation, and observability. About methodologies, I like TDD, DDD, BDD, Ports and adapters Architecture, and Clean Architecture.
 
