@@ -6,7 +6,8 @@ I'm enthusiastic about Android development and actively exploring Rust, Kotlin, 
 
 My technical passions lie in designing large-scale systems architecture, building microservices, creating bots, automating tasks, and ensuring observability.
 
-Methodologically, I am proficient in TDD, DDD (Domain-Driven Design), BDD (Behavior-Driven Development), Ports and Adapters Architecture, and Clean Architecture principles.
+Methodologically, I am proficient in TDD (Test-Driven Development), DDD (Domain-Driven Design), BDD (Behavior-Driven Development), Ports and Adapters Architecture, and Clean Architecture principles.
+
 
 - Senior Backend Developer at [Delivery Much Brasil](https://www.deliverymuch.com.br).
 - Android development enthusiast.
