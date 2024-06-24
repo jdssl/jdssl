@@ -1,6 +1,6 @@
 ### ☝ Hi my name is Jonatan Lima, but my friends call me Balu.
 
-I specialize in backend development using Node.js, Docker, Kubernetes (k8s), RabbitMQ, AWS services, Terraform, MongoDB, PostgreSQL, and other technologies. 
+I specialize in backend development using Node.js, Docker, Kubernetes (k8s), RabbitMQ, AWS services, Terraform, MongoDB, PostgreSQL, and other technologies.
 
 I'm enthusiastic about Android development and actively exploring Rust, Kotlin, Go (Golang), Lua, and C.
 
