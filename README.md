@@ -1,12 +1,12 @@
 ### ☝ Hi my name is Jonatan Lima, but my friends call me Balu.
 
-I specialize in backend development using Node.js, Docker, Kubernetes (k8s), RabbitMQ, AWS services, Terraform, MongoDB, PostgreSQL, and other technologies.
+I specialize in backend development using Node.js, Docker, Kubernetes (k8s), RabbitMQ, AWS services, Terraform, MongoDB, PostgreSQL, and other leading technologies.
 
-I'm enthusiastic about Android development and actively exploring Rust, Kotlin, Go (Golang), Lua, and C.
+I have a strong interest in Android development and I'm actively exploring Rust, Kotlin, Go (Golang), Lua, and C.
 
-My technical passions lie in designing large-scale systems architecture, building microservices, creating bots, automating tasks, and ensuring observability.
+My technical passions include designing large-scale systems architecture, building microservices, creating bots, automating tasks, and ensuring robust observability.
 
-Methodologically, I am proficient in TDD (Test-Driven Development), DDD (Domain-Driven Design), BDD (Behavior-Driven Development), Ports and Adapters Architecture, and Clean Architecture principles.
+I follow proven methodologies such as TDD (Test-Driven Development), DDD (Domain-Driven Design), BDD (Behavior-Driven Development), Ports and Adapters Architecture, and principles of Clean Architecture.
 
 
 - Senior Backend Developer at [Delivery Much Brasil](https://www.deliverymuch.com.br).
