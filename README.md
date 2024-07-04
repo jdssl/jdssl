@@ -15,13 +15,12 @@ I follow proven methodologies like TDD (Test-Driven Development), DDD (Domain-Dr
 - [Email](mailto:jotanlima@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/jonatan-lima-977416102)
 
+<!--
 <h2 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank"> <img src="./media/nodejs.svg" alt="nodejs" width="32" height="32"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="./media/c.svg" alt="c" width="32" height="32"/></a>
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="./media/rust.svg" alt="rust" width="32" height="32"/> </a>
-  <!-- <a href="https://kotlinlang.org/" target="_blank"> <img src="./media/kotlin.svg" alt="kotlin" width="32" height="32"/> </a> -->
-  <!-- <a href="https://www.android.com/" target="_blank"> <img src="./media/android.svg" alt="android" width="32" height="32"/> </a> -->
   <a href="https://go.dev/" target="_blank"> <img src="./media/go.svg" alt="golang" width="32" height="32"/> </a>
   <a href="https://www.lua.org/" target="_blank"> <img src="./media/lua.svg" alt="lua" width="32" height="32"/> </a>
   <a href="https://www.shellscript.sh/" target="_blank"><img src="./media/bash.svg" alt="bash" width="32" height="32"/></a>
@@ -34,7 +33,7 @@ I follow proven methodologies like TDD (Test-Driven Development), DDD (Domain-Dr
   <a href="https://kubernetes.io/" target="_blank"> <img src="./media/k8s.svg" alt="kubernetes" width="32" height="32"/> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="./media/aws.svg" alt="aws" width="32" height="32"/> </a>
   <a href="https://www.terraform.io/" target="_blank"> <img src="./media/terraform.svg" alt="terraform" width="32" height="32"/> </a>
-</p>
+</p> -->
 
 <!--
 ## 🔥 My Stats
