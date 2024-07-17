@@ -10,12 +10,12 @@ I follow proven methodologies like TDD (Test-Driven Development), DDD (Domain-Dr
 - Writer in [dev.to](https://dev.to/jonatanlima).
 - My talk about [Node.js Design Patterns](https://youtu.be/AWISf1mNcso?feature=shared).
 
+<!--
 ## 📫 Contact Information
 
 - [Email](mailto:jotanlima@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/jonatan-lima-977416102)
 
-<!--
 <h2 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://nodejs.org/en/" target="_blank"> <img src="./media/nodejs.svg" alt="nodejs" width="32" height="32"/> </a>
