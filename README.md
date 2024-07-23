@@ -6,7 +6,6 @@ I'm interested in designing large-scale systems architecture, building microserv
 
 I follow proven methodologies like TDD (Test-Driven Development), DDD (Domain-Driven Design), BDD (Behavior-Driven Development), Ports and Adapters Architecture, and principles of Clean Architecture.
 
-- Senior Backend Developer at [Delivery Much Brasil](https://www.deliverymuch.com.br).
 - Writer in [dev.to](https://dev.to/jonatanlima).
 - My talk about [Node.js Design Patterns](https://youtu.be/AWISf1mNcso?feature=shared).
 
