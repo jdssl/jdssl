@@ -35,10 +35,9 @@ I follow proven methodologies like TDD (Test-Driven Development), DDD (Domain-Dr
   <a href="https://www.terraform.io/" target="_blank"> <img src="./media/terraform.svg" alt="terraform" width="32" height="32"/> </a>
 </p> -->
 
-<!--
 ## 🔥 My Stats
 
  <div style="overflow:hidden;">
        <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdssl&theme=slateorange&count_private=true&layout=compact" />
 </div>
--->
+
